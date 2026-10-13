@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "chunkcollectorsplus",
+  "version": "${version}",
+  "name": "Chunk Collectors Plus",
+  "description": "A craftable block that acts as a hopper for a whole chunk, collecting whitelisted dropped items and sending them to a chest you choose. Cuts down on hoppers in your builds.",
+  "authors": ["Cameron Shanks"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.chunkcollectorsplus.ChunkCollectorsPlusMod"],
+    "client": ["com.chunkcollectorsplus.client.ChunkCollectorsPlusClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

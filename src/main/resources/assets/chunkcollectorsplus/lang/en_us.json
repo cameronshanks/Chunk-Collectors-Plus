@@ -1,0 +1,16 @@
+{
+  "block.chunkcollectorsplus.chunk_collector": "Chunk Collector",
+  "container.chunkcollectorsplus.chunk_collector": "Chunk Collector",
+  "container.chunkcollectorsplus.storage": "Collected Items",
+  "container.chunkcollectorsplus.whitelist": "Whitelist",
+  "gui.chunkcollectorsplus.open_storage": "Collected Items",
+  "gui.chunkcollectorsplus.open_whitelist": "Whitelist Settings",
+  "gui.chunkcollectorsplus.back": "Back",
+  "message.chunkcollectorsplus.config_entered": "Config mode: click collectors to select them, then click an inventory to link them. Press Esc to cancel.",
+  "message.chunkcollectorsplus.config_cancelled": "Config mode cancelled.",
+  "message.chunkcollectorsplus.config_wrong_dimension": "Config mode cancelled: you changed dimension.",
+  "message.chunkcollectorsplus.selected": "%s collector(s) selected",
+  "message.chunkcollectorsplus.not_inventory": "That block is not an inventory.",
+  "message.chunkcollectorsplus.too_far": "%s selected collector(s) are more than %s blocks from that inventory.",
+  "message.chunkcollectorsplus.linked": "Linked %s collector(s) to the inventory."
+}

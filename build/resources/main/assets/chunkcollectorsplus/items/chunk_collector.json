@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "chunkcollectorsplus:block/chunk_collector_connected"
+  }
+}

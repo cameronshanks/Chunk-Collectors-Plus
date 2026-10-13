@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "connected=false": { "model": "chunkcollectorsplus:block/chunk_collector" },
+    "connected=true": { "model": "chunkcollectorsplus:block/chunk_collector_connected" }
+  }
+}
